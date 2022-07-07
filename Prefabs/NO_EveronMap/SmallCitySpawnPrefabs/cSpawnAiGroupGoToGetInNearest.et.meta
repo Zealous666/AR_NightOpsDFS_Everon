@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B3722F61672D4402}Prefabs/NO_EveronMap/MediumCitySpawnPrefabs/cSpawnAiGroupGoToGetInNearest.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

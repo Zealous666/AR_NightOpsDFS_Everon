@@ -1,0 +1,38 @@
+GenericEntity {
+ ID "59B73338B09DC1A9"
+ components {
+  Hierarchy "{59B73338B09DC1B1}" {
+  }
+  NO_SCR_AISpawnerComponent "{59B73338B09DC1B7}" {
+   m_rSpawns {
+    CountSpawnsByOnlinePlayerWithManager "{59B73338B09DC1B8}" {
+     prefab {
+      1
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59B73338B09DC1BA}" {
+     CountOfPlayers 2
+     prefab {
+      2 2 3 8 5
+     }
+    }
+   }
+   m_eAiGroupType FireTeam
+  }
+  RplComponent "{59B73338B09DC1BF}" {
+  }
+ }
+ coords 65.901 0 -117.639
+ {
+  SCR_BoardingWaypoint : "{B049D4C74FBC0C4D}Prefabs/AI/Waypoints/AIWaypoint_GetInNearest.et" {
+   ID "59B73338B09DC1AB"
+   components {
+    Hierarchy "{59B73338B09DC141}" {
+    }
+    RplComponent "{59B73338B09DC140}" {
+    }
+   }
+   coords 0 0 0
+  }
+ }
+}

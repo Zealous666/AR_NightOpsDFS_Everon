@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FADB741472A12A92}Prefabs/NO_EveronMap/BigCitySpawnPrefabs/EnvSpawner.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

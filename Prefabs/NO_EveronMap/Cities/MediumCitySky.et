@@ -1,0 +1,1382 @@
+NO_SCR_SpawnTrigger : "{8E854CB7405795E8}Prefabs/NO_DSF/BaseSpawnTrigger.et" {
+ ID "598730F6BE5563B0"
+ coords 5704.104 145.073 6670.823
+ {
+  $grp GenericEntity : "{2415383119BA1AD4}Prefabs/NO_EveronMap/BigCitySpawnPrefabs/aSpawnAiGoToDefend.et" {
+   {
+    ID "59CEF01C2C032406"
+    components {
+     NO_SCR_AISpawnerComponent "{59B733387E78D362}" {
+      m_bShouldStack 1
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D367}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D366}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA557A}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA557F}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5570}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5571}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5572}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5573}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5574}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5575}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF668}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF66B}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF675}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF674}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType FireTeam
+     }
+    }
+    coords 0 0.725 -0.084
+   }
+   {
+    ID "59CEF01C2C032410"
+    components {
+     NO_SCR_AISpawnerComponent "{59B733387E78D362}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D367}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D366}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDD1}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDD0}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDD7}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDD6}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDD5}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDD4}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDCB}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDCA}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDC9}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDC8}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDCF}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDCE}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType RifleSquad
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C032419"
+    components {
+     NO_SCR_AISpawnerComponent "{59B733387E78D362}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D367}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D366}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDC3}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDC2}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDC1}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDC0}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9682D}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9682A}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9682B}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD96828}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD96829}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9FDAA}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9FD95}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9FD94}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType SentryTeam
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C03241C"
+    components {
+     NO_SCR_AISpawnerComponent "{59B733387E78D362}" {
+      m_bShouldStack 1
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D367}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D366}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA557A}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA557F}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5570}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5571}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5572}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5573}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5574}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADA5575}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF668}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF66B}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF675}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF674}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType FireTeam
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C0324EF"
+    components {
+     NO_SCR_AISpawnerComponent "{59B733387E78D362}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D367}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D366}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF67F}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF67E}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF679}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF67B}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF67A}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF605}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF604}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF607}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF606}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF601}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADAF600}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADADDDE}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType MachineGunTeam
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  $grp GenericEntity : "{42031C80E63371EF}Prefabs/NO_EveronMap/BigCitySpawnPrefabs/aSpawnAiGroupPatrol.et" {
+   {
+    ID "59CEF01C2C032403"
+    components {
+     NO_SCR_AISpawnerComponent "{59B73338950891EC}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9FD96}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9FD91}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9FD90}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD9FD93}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD87DC2}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD87DC3}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD87DCC}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8FD34}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8FD35}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8FD36}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8FD37}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8A232}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8A235}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8A234}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType MachineGunTeam
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C03240A"
+    components {
+     NO_SCR_AISpawnerComponent "{59B73338950891EC}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45C5}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45C2}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADDD911}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADDD910}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADDD913}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADDD912}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD9CD2}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD9CDD}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD9CDC}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADC315B}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADC3158}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADC3159}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADC315E}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADCCBF4}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType LATTeam
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C03240D"
+    components {
+     NO_SCR_AISpawnerComponent "{59B73338950891EC}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADCCBF7}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE35EFB}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE35EC4}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE35EC5}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE35EC6}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE333B8}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE333B9}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE333BE}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE333BF}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE30D7A}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE30D79}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE30D78}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE393C8}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE393C7}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType GLTeam
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C032432"
+    components {
+     NO_SCR_AISpawnerComponent "{59B73338950891EC}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE4529}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE4526}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE4527}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF249}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF24A}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF24B}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF24C}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE8109}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE8108}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE810B}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45D8}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45D9}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45C6}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45C7}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType SuppressTeam
+     }
+    }
+    coords 0 0.505 0
+   }
+   {
+    ID "59CEF01C2C032436"
+    components {
+     NO_SCR_AISpawnerComponent "{59B73338950891EC}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE4529}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE4526}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE4527}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF249}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF24A}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF24B}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADEF24C}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE8109}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE8108}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADE810B}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45D8}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45D9}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45C6}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADD45C7}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType SuppressTeam
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C03243C"
+    components {
+     NO_SCR_AISpawnerComponent "{59B73338950891EC}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AD8A229}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF5FA7}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF5FA6}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF5FA5}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF21E7}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF21E6}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF21E1}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF21E0}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF1D4E}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF1D4D}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADF1D4C}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADFC911}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADFC91E}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7ADFC91F}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType LightFireTeam
+     }
+    }
+    coords 0 0.505 0
+   }
+  }
+  $grp GenericEntity : "{CE66D6EF1420C7D4}Prefabs/NO_EveronMap/BigCitySpawnPrefabs/aSpawnAiDefend.et" {
+   {
+    ID "59CEF01C2C032424"
+    components {
+     NO_SCR_AISpawnerComponent "{59B7333878112F99}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE08057}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE75481}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE75482}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE75483}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE7549C}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE74B8E}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE74B8F}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE74B8C}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE74B8D}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE71AF4}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE71AF3}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE71AF2}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE7E46C}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE7E46F}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType FireTeam
+     }
+    }
+    coords 0 0.432 0
+   }
+   {
+    ID "59CEF01C2C032438"
+    components {
+     NO_SCR_AISpawnerComponent "{59B7333878112F99}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE393C5}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE393C4}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE393C3}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE27307}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE27306}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE27305}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE22844}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE22845}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2285A}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2285B}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2EFC8}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2EFCB}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2EFCA}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2EFCD}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType FireTeam
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C03243A"
+    components {
+     NO_SCR_AISpawnerComponent "{59B7333878112F99}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2EFCF}" {
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2C476}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2C477}" {
+        CountOfPlayers 10
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2C478}" {
+        CountOfPlayers 15
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE2C479}" {
+        CountOfPlayers 20
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE28A6D}" {
+        CountOfPlayers 25
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE28A6E}" {
+        CountOfPlayers 30
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE28A6F}" {
+        CountOfPlayers 35
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE12E6F}" {
+        CountOfPlayers 40
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE12E68}" {
+        CountOfPlayers 45
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE12E69}" {
+        CountOfPlayers 50
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE12E6A}" {
+        CountOfPlayers 55
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE1D433}" {
+        CountOfPlayers 60
+        prefab {
+         1 1
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59CEF01F7AE1D432}" {
+        CountOfPlayers 64
+        prefab {
+         1 1
+        }
+       }
+      }
+      m_eAiGroupType SentryTeam
+     }
+    }
+    coords 0 0.432 0
+   }
+  }
+  $grp GenericEntity : "{DE3D219AF22C843A}Prefabs/NO_EveronMap/BigCitySpawnPrefabs/aSpawnAiGroupGetInNearest.et" {
+   {
+    ID "59CEF01C2C032425"
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C032427"
+    components {
+     NO_SCR_AISpawnerComponent "{59B733386364FC42}" {
+      m_rSpawns {
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D367}" {
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59B733387E78D366}" {
+        CountOfPlayers 5
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD04892D89DF97}" {
+        CountOfPlayers 10
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD04897911BD70}" {
+        CountOfPlayers 15
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD04897D89BE97}" {
+        CountOfPlayers 20
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD0489622644C6}" {
+        CountOfPlayers 25
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD048962B43C0F}" {
+        CountOfPlayers 30
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD048962EF1F0A}" {
+        CountOfPlayers 35
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD048963724DB2}" {
+        CountOfPlayers 40
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD048963DEACA2}" {
+        CountOfPlayers 45
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD048964566D8B}" {
+        CountOfPlayers 50
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD04896512FCB6}" {
+        CountOfPlayers 55
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD04896678F5E5}" {
+        CountOfPlayers 60
+        prefab +{
+        }
+       }
+       CountSpawnsByOnlinePlayerWithManager "{59BD048966D38310}" {
+        CountOfPlayers 64
+        prefab +{
+        }
+       }
+      }
+      m_eAiGroupType SentryTeam
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  $grp GenericEntity : "{FADB741472A12A92}Prefabs/NO_EveronMap/BigCitySpawnPrefabs/EnvSpawner.et" {
+   {
+    ID "59CEF01C2C031FC4"
+    coords 0 0 0
+   }
+   {
+    ID "59CEF01C2C032421"
+    coords 0 0 0
+   }
+  }
+ }
+}

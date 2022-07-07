@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{29A69F201B02847D}Prefabs/NO_EveronMap/MediumCitySpawnPrefabs/cSpawnAiGroupPatrol.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

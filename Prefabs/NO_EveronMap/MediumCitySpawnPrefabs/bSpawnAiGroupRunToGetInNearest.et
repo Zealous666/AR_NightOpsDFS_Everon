@@ -1,0 +1,48 @@
+GenericEntity {
+ ID "59B73338A2025A64"
+ components {
+  Hierarchy "{59B73338A203C015}" {
+  }
+  NO_SCR_AISpawnerComponent "{59B73338A203C02B}" {
+   m_bShouldStack 1
+   m_rSpawns {
+    CountSpawnsByOnlinePlayerWithManager "{59B73338A203C02F}" {
+     prefab {
+      2
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59B73338A203C02E}" {
+     CountOfPlayers 4
+     prefab {
+      1 1 1 1 1
+     }
+    }
+   }
+  }
+  RplComponent "{59B73338A203C020}" {
+  }
+ }
+ coords 82.117 0 136.025
+ {
+  $grp SCR_AIWaypoint : "{750A8D1695BD6998}Prefabs/AI/Waypoints/AIWaypoint_Move.et" {
+   {
+    ID "59B73338A2025A65"
+    coords -13.822 0 7.683
+   }
+   {
+    ID "59B73338A203C01E"
+    coords -29.6 0 20.717
+   }
+  }
+  SCR_BoardingWaypoint : "{B049D4C74FBC0C4D}Prefabs/AI/Waypoints/AIWaypoint_GetInNearest.et" {
+   ID "59B73338A203C011"
+   components {
+    Hierarchy "{59B73338A203C022}" {
+    }
+    RplComponent "{59B73338A203C025}" {
+    }
+   }
+   coords -55.482 -0.002 39.5
+  }
+ }
+}

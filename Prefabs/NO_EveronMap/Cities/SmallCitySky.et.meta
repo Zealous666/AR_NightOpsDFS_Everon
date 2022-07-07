@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{01AE4F2A411C62E5}Prefabs/NO_EveronMap/Cities/SmallCitySky.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

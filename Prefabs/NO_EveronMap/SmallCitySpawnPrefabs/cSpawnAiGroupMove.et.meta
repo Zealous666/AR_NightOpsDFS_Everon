@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C2C8DFA3A26F5AA8}Prefabs/NO_EveronMap/MediumCitySpawnPrefabs/cSpawnAiGroupMove.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

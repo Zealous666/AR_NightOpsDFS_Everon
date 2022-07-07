@@ -1,0 +1,18 @@
+NO_SCR_SpawnTrigger : "{01AE4F2A411C62E5}Prefabs/NO_EveronMap/Cities/SmallCitySky.et" {
+ coords 5520.705 184.042 6954.624
+}
+NO_SCR_SpawnTrigger : "{66DF65878DB77F04}Prefabs/NO_EveronMap/Cities/SmallCity.et" {
+ coords 5440.599 141.744 6775.599
+}
+NO_SCR_SpawnTrigger : "{C1A42AB6808CB14C}Prefabs/NO_EveronMap/Cities/MediumCitySky.et" {
+ coords 5606.178 199.662 6940.676
+}
+NO_SCR_SpawnTrigger : "{C7BC7A65AEB88B68}Prefabs/NO_EveronMap/Cities/BigCitySky.et" {
+ coords 5724.609 202.016 6938.996
+}
+NO_SCR_SpawnTrigger : "{E02E0E321C176B2B}Prefabs/NO_EveronMap/Cities/MediumCity.et" {
+ coords 5518.655 146.643 6771.891
+}
+NO_SCR_SpawnTrigger : "{FD46D4EB7AD6C72E}Prefabs/NO_EveronMap/Cities/BigCity.et" {
+ coords 5597.06 155.973 6745.125
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{DE3D219AF22C843A}Prefabs/NO_DSF/Groups/DynamicFaction/aSpawnAiGroupGetInNearest.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
