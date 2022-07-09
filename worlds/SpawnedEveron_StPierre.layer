@@ -1,4 +1,4 @@
-NO_SCR_SpawnTrigger : "{4A87B1CF1D59E8D5}Prefabs/NO_EveronMap/Cities/BigCity.et" {
+NO_SCR_SpawnTrigger StPierre_Trigger : "{4A87B1CF1D59E8D5}Prefabs/NO_EveronMap/Cities/BigCity.et" {
  coords 9712.699 11.567 1566.983
  {
   GenericEntity {
