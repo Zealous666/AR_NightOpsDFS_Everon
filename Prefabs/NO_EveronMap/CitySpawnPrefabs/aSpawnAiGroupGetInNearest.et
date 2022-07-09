@@ -1,0 +1,63 @@
+GenericEntity {
+ ID "59B733386364FCBE"
+ components {
+  Hierarchy "{59B733386364FCB8}" {
+  }
+  NO_SCR_AISpawnerComponent "{59B733386364FC42}" {
+   m_bShouldStack 1
+   m_rSpawns {
+    CountSpawnsByOnlinePlayerWithManager "{59B7333878112F84}" {
+     prefab {
+      5
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59B7333878112F81}" {
+     CountOfPlayers 35
+     prefab {
+      1
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12D085C4C}" {
+     CountOfPlayers 45
+     prefab {
+      9
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12D6D3949}" {
+     CountOfPlayers 55
+     prefab {
+      4
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12EDD89EF}" {
+     CountOfPlayers 65
+     prefab {
+      8
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F14B19D388}" {
+     CountOfPlayers 75
+     prefab {
+      3
+     }
+    }
+   }
+   m_eAiGroupType SentryTeam
+  }
+  RplComponent "{59B733386364FC4C}" {
+  }
+ }
+ coords 65.901 0 -117.639
+ {
+  SCR_BoardingWaypoint : "{B049D4C74FBC0C4D}Prefabs/AI/Waypoints/AIWaypoint_GetInNearest.et" {
+   ID "59B733386364FCBD"
+   components {
+    Hierarchy "{59B733386364FC4A}" {
+    }
+    RplComponent "{59B733386364FC49}" {
+    }
+   }
+   coords 0 0 0
+  }
+ }
+}

@@ -1,18 +1,74 @@
-NO_SCR_SpawnTrigger : "{01AE4F2A411C62E5}Prefabs/NO_EveronMap/Cities/SmallCitySky.et" {
- coords 5520.705 184.042 6954.624
-}
-NO_SCR_SpawnTrigger : "{66DF65878DB77F04}Prefabs/NO_EveronMap/Cities/SmallCity.et" {
- coords 5440.599 141.744 6775.599
-}
-NO_SCR_SpawnTrigger : "{C1A42AB6808CB14C}Prefabs/NO_EveronMap/Cities/MediumCitySky.et" {
- coords 5606.178 199.662 6940.676
-}
-NO_SCR_SpawnTrigger : "{C7BC7A65AEB88B68}Prefabs/NO_EveronMap/Cities/BigCitySky.et" {
- coords 5724.609 202.016 6938.996
-}
-NO_SCR_SpawnTrigger : "{E02E0E321C176B2B}Prefabs/NO_EveronMap/Cities/MediumCity.et" {
- coords 5518.655 146.643 6771.891
-}
-NO_SCR_SpawnTrigger : "{FD46D4EB7AD6C72E}Prefabs/NO_EveronMap/Cities/BigCity.et" {
- coords 5597.06 155.973 6745.125
+NO_SCR_SpawnTrigger loc_01_StPhillipe_Trigger : "{4A87B1CF1D59E8D5}Prefabs/NO_EveronMap/Cities/BigCity.et" {
+ coords 4495.5 13.932 10724.451
+ {
+  GenericEntity {
+   ID "59CF34F8415DD540"
+   coords 165.853 13.9 152.826
+   angleY 152.839
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 21.273 -6.83 30.164
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 12.754 -7.44 70.582
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 58.458 -10.449 -3.557
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 79.109 -5.932 69.853
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD541"
+   coords 111.43 7.784 158.273
+   angleY -145.992
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords -9.732 -4.991 34.063
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 19.304 -5.724 57.693
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 55.99 -6.595 41.062
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 108.332 -9.63 75.198
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD544"
+   coords -38.029 13.292 -185.33
+   angleY 69.514
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 17.41 -5.541 13.131
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 95.09 -10.518 27.702
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 121.889 -11.005 63.323
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 79.109 -11.349 69.853
+    }
+   }
+  }
+ }
 }

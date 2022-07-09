@@ -1,0 +1,81 @@
+NO_SCR_SpawnTrigger Tyrone_Trigger : "{66DF65878DB77F04}Prefabs/NO_EveronMap/Cities/SmallCity.et" {
+ coords 4924.939 36.076 9095.453
+ {
+  GenericEntity {
+   ID "59CF34F0F1ED3829"
+   coords -9.64 17.196 -217.468
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 9.364 -0.438 12.443
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 12.565 -4.062 65.003
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 22.671 -11.457 113.783
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 20.199 -11.467 110.002
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED382C"
+   coords -10.904 6.019 -95.395
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -9.749 -0.377 3.223
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 47.548 -0.204 17.549
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -16.659 -3.916 52.848
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED382D"
+   coords 40.159 0.549 19.604
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -0.069 0.002 -0.16
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 42.647 1.793 -31.483
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -32.616 -0.616 -18.786
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED382F"
+   coords -76.774 0.253 1.299
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -1.698 -0.082 4.345
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 71.847 -0.129 -0.86
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 38.356 2.677 -57.013
+    }
+   }
+  }
+ }
+}

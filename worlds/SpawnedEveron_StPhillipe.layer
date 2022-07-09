@@ -1,0 +1,368 @@
+NO_SCR_SpawnTrigger StPhillipe_Trigger : "{4A87B1CF1D59E8D5}Prefabs/NO_EveronMap/Cities/BigCity.et" {
+ coords 4495.5 13.932 10724.451
+ {
+  GenericEntity {
+   ID "59CF34F8415DD540"
+   coords 165.853 13.9 152.826
+   angleY 152.839
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 21.273 -6.83 30.164
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 12.754 -7.44 70.582
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 58.458 -10.449 -3.557
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 79.109 -5.932 69.853
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD541"
+   coords 111.43 7.784 158.273
+   angleY -145.992
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords -9.732 -4.991 34.063
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 19.304 -5.724 57.693
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 55.99 -6.595 41.062
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 108.332 -9.63 75.198
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD544"
+   coords -38.029 13.292 -185.33
+   angleY 69.514
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 17.41 -5.541 13.131
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 95.09 -10.518 27.702
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 121.889 -11.005 63.323
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 79.109 -11.349 69.853
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD547"
+   coords -491.069 -11.231 -56.796
+   angleY -86.413
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 21.458 -0.226 13.794
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 38.646 0.086 29.929
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 57.813 0.324 40.803
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 95.4 4.766 80.051
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415F3413"
+   coords -160.866 -7.127 -24.722
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 33.652 2.524 5.551
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 68.848 3.512 10.998
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 90.876 5.745 27.586
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 111.726 6.039 43.276
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DAC7D"
+   coords -34.845 4.195 -127.949
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords 134.712 -0.002 58.855
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 15.566 -4.791 118.851
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -20.605 -1.304 28.639
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DAC7F"
+   coords 65.992 2.411 -188.552
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -3.115 -0.281 -80.355
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -31.622 -1.724 -137.399
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 0.507 0.326 14.892
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD542"
+   coords -149.742 -12.339 279.176
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -81.756 0.04 -12.016
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 111.998 4.207 211.153
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 52.208 0 211.676
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD543"
+   coords 153.008 13.911 443.234
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords 0.799 -0.176 -36.189
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 4.713 -0.012 48.173
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -48.76 -2.378 10.436
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD548"
+   coords -427.573 -12.472 302.559
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -83.907 -0.749 -48.929
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 108.696 -0.024 70.758
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 168.338 -0.051 298.678
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD549"
+   coords -65.059 -12.14 323.796
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords 11.948 -0.749 -32.136
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -56.96 -0.749 -1.402
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -4.669 -0.189 22.284
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD54C"
+   coords 34.881 -0.338 221.878
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -107.36 -6.677 -25.338
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -101.22 -7.006 30.341
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -34.941 -5.971 59.256
+    }
+    SCR_AIWaypoint : "{22A875E30470BD4F}Prefabs/AI/Waypoints/AIWaypoint_Patrol.et" {
+     components {
+      Hierarchy "{59B73338950891F9}" {
+      }
+      RplComponent "{59B7333895094BD7}" {
+      }
+     }
+     coords -0.944 -0.052 0.797
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD54D"
+   coords 166.32 7.628 -48.332
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -6.479 0.826 -14.447
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 15.735 0.131 17.408
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -29.106 -0.023 18.431
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD54E"
+   coords -85.608 2.041 -103.115
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -5.134 -0.749 0.042
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -16.785 -6.047 88.296
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -162.986 -5.48 0.748
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DD54F"
+   coords 86.488 4.329 15.496
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -2.528 -0.013 -1.73
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -27.947 -2.183 103.862
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -120.894 -6.256 27.225
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F8415DA425"
+   coords -57.886 -12.339 396.039
+  }
+  GenericEntity {
+   ID "59CF34F8415DA426"
+   coords -147.382 -1.999 -78.268
+  }
+  GenericEntity {
+   ID "59CF34F8415DAC82"
+   coords 183.978 8.197 -47.226
+  }
+  GenericEntity {
+   ID "59CF34F8415DAC83"
+   coords 136.37 13.985 438.308
+  }
+  GenericEntity {
+   ID "59CF34F8415E5426"
+   coords -179.447 -12.198 207.049
+  }
+  GenericEntity {
+   ID "59CF34F8415E5427"
+   coords 130.484 5.003 -193.64
+  }
+  GenericEntity {
+   ID "59CF34F8415E3968"
+   coords 223.707 5.37 -167.413
+  }
+  GenericEntity {
+   ID "59CF34F8415E396F"
+   coords -270.13 1.775 -145.909
+  }
+  GenericEntity {
+   ID "59CF34F8415EF710"
+   coords 235.468 13.911 348.609
+  }
+  GenericEntity {
+   ID "59CF34F8415EF711"
+   coords 12.225 3.781 547.707
+  }
+  GenericEntity {
+   ID "59CF34F8415EA46C"
+   coords 230.056 2.449 -168.117
+   angleY -163.587
+  }
+  GenericEntity {
+   ID "59CF34F8415EB44E"
+   coords -263.985 1.87 -146.756
+   angleY 179.788
+  }
+  GenericEntity {
+   ID "59CF34F8415EB44F"
+   coords 231.726 13.911 345.222
+   angleY 137.942
+  }
+  GenericEntity {
+   ID "59CF34F8415EF713"
+   coords 4.278 1.185 547.009
+   angleY 169.763
+  }
+ }
+}

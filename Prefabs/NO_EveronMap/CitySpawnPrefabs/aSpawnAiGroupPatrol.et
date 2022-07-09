@@ -4,10 +4,41 @@ GenericEntity {
   Hierarchy "{59B73338950891E9}" {
   }
   NO_SCR_AISpawnerComponent "{59B73338950891EC}" {
+   m_bShouldStack 1
    m_rSpawns {
-    CountSpawnsByOnlinePlayerWithManager "{59B73338950891F1}" {
+    CountSpawnsByOnlinePlayerWithManager "{59B7333878112F84}" {
      prefab {
       1
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59B7333878112F81}" {
+     CountOfPlayers 35
+     prefab {
+      3
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12D085C4C}" {
+     CountOfPlayers 45
+     prefab {
+      9
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12D6D3949}" {
+     CountOfPlayers 55
+     prefab {
+      4
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12EDD89EF}" {
+     CountOfPlayers 65
+     prefab {
+      8
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F14B19D388}" {
+     CountOfPlayers 75
+     prefab {
+      3
      }
     }
    }

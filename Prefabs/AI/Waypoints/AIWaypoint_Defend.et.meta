@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{C01A6CDE6DE47586}Prefabs/NO_EveronMap/MediumCitySpawnPrefabs/cSpawnAiGroupGetInNearest.et"
+ Name "{3BC092984487BBD2}Prefabs/AI/Waypoints/AIWaypoint_Defend.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

@@ -1,6 +1,15 @@
 SubScene {
  Parent "worlds/Eden/Eden.ent"
 }
-Layer loc_01_StPhillipe {
+Layer StPhillipe {
  Index 0
+}
+Layer Meaux {
+ Index 1
+}
+Layer Tyrone {
+ Index 2
+}
+Layer Etoupe {
+ Index 3
 }

@@ -4,16 +4,41 @@ GenericEntity {
   Hierarchy "{59B733387E78D36F}" {
   }
   NO_SCR_AISpawnerComponent "{59B733387E78D362}" {
+   m_bShouldStack 1
    m_rSpawns {
-    CountSpawnsByOnlinePlayerWithManager "{59B733387E78D367}" {
+    CountSpawnsByOnlinePlayerWithManager "{59B7333878112F84}" {
      prefab {
       2
      }
     }
-    CountSpawnsByOnlinePlayerWithManager "{59B733387E78D366}" {
-     CountOfPlayers 2
+    CountSpawnsByOnlinePlayerWithManager "{59B7333878112F81}" {
+     CountOfPlayers 35
      prefab {
-      1 1
+      5
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12D085C4C}" {
+     CountOfPlayers 45
+     prefab {
+      8
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12D6D3949}" {
+     CountOfPlayers 55
+     prefab {
+      4
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F12EDD89EF}" {
+     CountOfPlayers 65
+     prefab {
+      1
+     }
+    }
+    CountSpawnsByOnlinePlayerWithManager "{59CF34F14B19D388}" {
+     CountOfPlayers 75
+     prefab {
+      3
      }
     }
    }
@@ -23,6 +48,10 @@ GenericEntity {
  }
  coords 92.223 2.841 -67.85
  {
+  SCR_DefendWaypoint : "{3BC092984487BBD2}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+   ID "59B733387E78D36B"
+   coords 79.109 -1.942 69.853
+  }
   $grp SCR_AIWaypoint : "{750A8D1695BD6998}Prefabs/AI/Waypoints/AIWaypoint_Move.et" {
    {
     ID "59B733387E789F08"
@@ -54,16 +83,6 @@ GenericEntity {
     }
     coords 14.869 -1.942 13.563
    }
-  }
-  SCR_DefendWaypoint : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
-   ID "59B733387E78D36B"
-   components {
-    Hierarchy "{59B733387E78CF7F}" {
-    }
-    RplComponent "{59B733387E78CF7E}" {
-    }
-   }
-   coords 79.109 -1.942 69.853
   }
  }
 }
