@@ -1,0 +1,27 @@
+NO_SCR_SpawnTrigger : "{4A87B1CF1D59E8D5}Prefabs/NO_EveronMap/Cities/BigCity.et" {
+ coords 9712.699 11.567 1566.983
+ {
+  GenericEntity {
+   ID "59CF34F8415DD540"
+   coords -46.43 32.25 -259.308
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 118.515 -38.488 97.36
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 127.141 -21.895 11.846
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 43.837 -18.163 14.685
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 121.684 -37.428 92.783
+    }
+   }
+  }
+ }
+}
