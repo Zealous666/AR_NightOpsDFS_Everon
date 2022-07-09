@@ -1,3 +1,112 @@
 NO_SCR_SpawnTrigger Etoupe_Trigger : "{66DF65878DB77F04}Prefabs/NO_EveronMap/Cities/SmallCity.et" {
  coords 5367.451 18.053 10004.628
+ {
+  GenericEntity {
+   ID "59CF34F0F1ED3829"
+   coords -78.008 4.926 25.457
+   angleY -1.073
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 5.635 -0.667 7.489
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 27.508 -2.915 32.324
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 42.708 -4.239 52.313
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 79.109 -2.767 69.853
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED382F"
+   coords -20.971 2.633 -94.597
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -35.666 0.547 -105.653
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 14.579 -2.978 103.611
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 3.323 -3.903 181.724
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED382C"
+   coords 44.383 -0.656 11.619
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -14.28 0.69 -26.018
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -50.024 0.674 -14.171
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -22.64 -1.052 34.521
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED382D"
+   coords -68.014 3.259 -196.329
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -28.946 -0.869 -32.135
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 52.724 -0.56 16.155
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -20.536 -0.048 40.442
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED3820"
+   coords -74.143 3.259 -186.728
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED3821"
+   coords -20.927 2.671 -105.631
+  }
+  GenericEntity {
+   ID "59CF34F0F1ED3822"
+   coords 13.394 -0.106 -2.094
+  }
+  GenericEntity {
+   ID "59CF34F0F1ECB373"
+   coords -12.289 -0.315 147.143
+  }
+  GenericEntity {
+   ID "59CF34F0F1ECB374"
+   coords -47.534 1.354 -244.529
+  }
+  GenericEntity {
+   ID "59CF34F0F1EC2FF3"
+   coords -19.071 -0.221 146.673
+   angleY -25.709
+  }
+  GenericEntity {
+   ID "59CF34F0F1ECB370"
+   coords -53.722 0.993 -257.01
+   angleY -162.664
+  }
+ }
 }

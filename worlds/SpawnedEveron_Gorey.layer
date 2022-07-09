@@ -1,111 +1,113 @@
-NO_SCR_SpawnTrigger Tyrone_Trigger : "{66DF65878DB77F04}Prefabs/NO_EveronMap/Cities/SmallCity.et" {
- coords 4924.939 36.076 9095.453
+NO_SCR_SpawnTrigger Gorey_Trigger : "{66DF65878DB77F04}Prefabs/NO_EveronMap/Cities/SmallCity.et" {
+ coords 4840.462 112.911 8097.945
  {
   GenericEntity {
    ID "59CF34F0F1ED3829"
-   coords -9.64 17.196 -217.468
+   coords -66.543 11.919 -143.396
+   angleY -2.161
    {
     SCR_AIWaypoint {
      ID "59B733387E789F08"
-     coords 9.364 -0.438 12.443
+     coords 10.47 -0.496 2.491
     }
     SCR_AIWaypoint {
      ID "59B733387E789F09"
-     coords 12.565 -4.062 65.003
+     coords 40.094 -2.219 39.803
     }
     SCR_AIWaypoint {
      ID "59B733387E789F37"
-     coords 22.671 -11.457 113.783
+     coords 61.731 -6.372 73.97
     }
     SCR_DefendWaypoint {
      ID "59B733387E78D36B"
-     coords 20.199 -11.467 110.002
+     coords 69.316 -8.307 83.487
     }
    }
   }
   GenericEntity {
    ID "59CF34F0F1ED382C"
-   coords -10.904 6.019 -95.395
+   coords -20.598 5.63 45.104
    {
     SCR_AIWaypoint {
      ID "59B7333895083AC8"
-     coords -9.749 -0.377 3.223
+     coords -11.393 -0.187 -4.008
     }
     SCR_AIWaypoint {
      ID "59B7333895083ACF"
-     coords 47.548 -0.204 17.549
+     coords -10.364 3.125 -122.03
     }
     SCR_AIWaypoint {
      ID "59B73338950891E7"
-     coords -16.659 -3.916 52.848
+     coords 82.866 -9.312 16.879
     }
    }
   }
   GenericEntity {
    ID "59CF34F0F1ED382D"
-   coords 40.159 0.549 19.604
+   coords 35.254 -2.653 26.394
    {
     SCR_AIWaypoint {
      ID "59B7333895083AC8"
-     coords -0.069 0.002 -0.16
+     coords -24.144 2.85 -51.694
     }
     SCR_AIWaypoint {
      ID "59B7333895083ACF"
-     coords 42.647 1.793 -31.483
+     coords 6.614 -0.306 -0.883
     }
     SCR_AIWaypoint {
      ID "59B73338950891E7"
-     coords -32.616 -0.616 -18.786
+     coords 45.065 -2.51 -17.442
     }
    }
   }
   GenericEntity {
    ID "59CF34F0F1ED382F"
-   coords -76.774 0.253 1.299
+   coords 124.994 3.426 -66.788
    {
     SCR_AIWaypoint {
      ID "59B7333895083AC8"
-     coords -1.698 -0.082 4.345
+     coords -11.393 0.902 -4.008
     }
     SCR_AIWaypoint {
      ID "59B7333895083ACF"
-     coords 71.847 -0.129 -0.86
+     coords -216.498 10.107 -12.866
     }
     SCR_AIWaypoint {
      ID "59B73338950891E7"
-     coords 38.356 2.677 -57.013
+     coords -84.361 -10.286 169.197
     }
    }
   }
   GenericEntity {
    ID "59CF34F0F1ED3820"
-   coords -25.797 0.432 42.618
+   coords -11.363 1.898 20.531
   }
   GenericEntity {
    ID "59CF34F0F1ED3821"
-   coords -72.709 2.591 -48.632
+   coords 62.193 -4.036 -19.088
   }
   GenericEntity {
    ID "59CF34F0F1ED3822"
-   coords 47.776 0.779 11.282
+   coords 24.416 -1.718 -17.982
   }
   GenericEntity {
    ID "59CF34F0F1ECB373"
-   coords 40.216 0 83.143
+   coords 101.458 -8.631 49.194
   }
   GenericEntity {
    ID "59CF34F0F1ECB374"
-   coords -131.686 6.005 -126.119
-   angleY -156.033
+   coords 19.475 12.843 -218.078
+   angleY -23.367
   }
   GenericEntity {
    ID "59CF34F0F1EC2FF3"
-   coords 29.209 0 91.007
+   coords 106.469 -11.378 43.875
+   angleY 83.723
   }
   GenericEntity {
    ID "59CF34F0F1ECB370"
-   coords -141.186 8.03 -147.236
-   angleY -153.848
+   coords 3.743 13.405 -224.066
+   angleY -138.035
   }
  }
 }

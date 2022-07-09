@@ -1,0 +1,267 @@
+NO_SCR_SpawnTrigger MilitaryAirportNorth_Trigger : "{E02E0E321C176B2B}Prefabs/NO_EveronMap/Cities/MediumCity.et" {
+ coords 4910.929 28.595 11825.351
+ {
+  GenericEntity {
+   ID "59CF34F0F3F6C805"
+   coords 54.847 -0.043 -170.711
+   angleY -109.503
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 32.133 -0.355 -3.333
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 69.622 0.042 -16.313
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 27.475 0.042 61.683
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 120.116 0.042 24.069
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C809"
+   coords 37.108 -0.148 163.286
+   angleY -116.154
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords -17.227 -0.135 6.535
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords -50.926 -0.009 42.889
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 26.546 -0.888 87.443
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C80A"
+   coords -6.118 -0.002 -100.181
+   angleY -144.178
+   {
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 109.692 0.077 72.473
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C80B"
+   coords -4.197 -0.001 64.712
+   angleY -164.358
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 17.642 -0.001 -8.391
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 47.519 0 4.124
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 66.742 -0.178 15.413
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 92.592 -1.471 33.708
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C80C"
+   coords -4.153 -0.001 71.771
+   angleY -28.031
+   {
+    SCR_AIWaypoint {
+     ID "59B733387E789F08"
+     coords 3.007 -0.001 20.187
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F09"
+     coords 67.033 -0.312 10.916
+    }
+    SCR_AIWaypoint {
+     ID "59B733387E789F37"
+     coords 90.229 -0.281 52.379
+    }
+    SCR_DefendWaypoint {
+     ID "59B733387E78D36B"
+     coords 89.617 -0.094 63.174
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6A6ED"
+   coords -109.584 -3.564 147.998
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords 22.446 -1.214 63.931
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -17.386 1.315 -84.926
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords -31.494 3.421 -227.679
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6A6EF"
+   coords 138.957 -4.623 45.265
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -10.707 2.499 54.979
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -24.128 3.398 -27.604
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 36.114 0.886 2.86
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C801"
+   coords -6.26 -0.001 -102.857
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords -7.836 -0.001 6.626
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords 7.215 -0.001 138.896
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 0.348 1.051 272.693
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C804"
+   coords 136.032 -4.559 -91.011
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords 0.762 -0.15 -11.078
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -20.542 4.025 64.404
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 33.774 -2.107 49.917
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C807"
+   coords 38.665 -0.338 106.848
+   {
+    SCR_AIWaypoint {
+     ID "59B7333895083AC8"
+     coords 1.053 0.045 -21.497
+    }
+    SCR_AIWaypoint {
+     ID "59B7333895083ACF"
+     coords -0.704 0.292 -133.851
+    }
+    SCR_AIWaypoint {
+     ID "59B73338950891E7"
+     coords 4.711 0.188 69.903
+    }
+   }
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6A6D0"
+   coords 45.825 -0.333 95.214
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6A6D2"
+   coords 20.65 -0.033 -168.504
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6A6D3"
+   coords 45.324 -0.212 24.203
+  }
+  GenericEntity {
+   ID "59CF34F0F3F56DE6"
+   coords -80.437 -1.095 -183.531
+  }
+  GenericEntity {
+   ID "59CF34F0F3F56DE7"
+   coords -136.001 -5.11 218.282
+  }
+  GenericEntity {
+   ID "59CF34F0F3F51368"
+   coords -86.649 -1.126 -197.81
+   angleY 179.158
+  }
+  GenericEntity {
+   ID "59CF34F0F3F5136F"
+   coords -120.625 -5.204 218.267
+  }
+  $grp GenericEntity : "{FADB741472A12A92}Prefabs/NO_EveronMap/CitySpawnPrefabs/EnvSpawner.et" {
+   {
+    components {
+     NO_SCR_EnvSpawnerComponent "{59BD04884B00F858}" {
+      m_rDynamicSpawns {
+       CountSpawnsByOnlinePlayerWithManagerEnv "{59BD04884B00F836}" {
+        prefab {
+         10
+        }
+       }
+      }
+     }
+    }
+    coords -152.668 0 -102.668
+   }
+   {
+    components {
+     NO_SCR_EnvSpawnerComponent "{59BD04884B00F858}" {
+      m_rDynamicSpawns {
+       CountSpawnsByOnlinePlayerWithManagerEnv "{59BD04884B00F836}" {
+        prefab {
+         10
+        }
+       }
+      }
+     }
+    }
+    coords -76.735 0 199.92
+   }
+   {
+    components {
+     NO_SCR_EnvSpawnerComponent "{59BD04884B00F858}" {
+      m_rDynamicSpawns {
+       CountSpawnsByOnlinePlayerWithManagerEnv "{59BD04884B00F836}" {
+        prefab {
+         10
+        }
+       }
+      }
+     }
+    }
+    coords -106.353 0 39.2
+   }
+  }
+ }
+}
