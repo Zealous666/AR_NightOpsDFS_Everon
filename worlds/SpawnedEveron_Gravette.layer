@@ -1,0 +1,13 @@
+NO_SCR_SpawnTrigger Gravette_Trigger : "{E02E0E321C176B2B}Prefabs/NO_EveronMap/Cities/MediumCity.et" {
+ coords 4127.448 35.963 7790.95
+ {
+  GenericEntity {
+   ID "59CF34F0F3F6C805"
+   coords 82.545 13.997 -109.391
+  }
+  GenericEntity {
+   ID "59CF34F0F3F6C809"
+   coords 66.269 5.38 38.279
+  }
+ }
+}
