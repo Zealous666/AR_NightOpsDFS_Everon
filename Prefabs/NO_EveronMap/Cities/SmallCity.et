@@ -75,6 +75,7 @@ NO_SCR_SpawnTrigger {
    PercentageAi 100
   }
  }
+ m_bShouldTriggerOnlyOnPlayerContact 1
  {
   GenericEntity : "{2415383119BA1AD4}Prefabs/NO_EveronMap/CitySpawnPrefabs/aSpawnAiGoToDefend.et" {
    ID "59CF34F0F1ED3829"
